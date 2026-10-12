@@ -2,5 +2,7 @@
   "name": "InsightFlow",
   "description": "Intelligent Customer Feedback & Decision Platform. Transforms raw reviews, surveys, and support tickets into prioritized business insights and executive action plans.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
